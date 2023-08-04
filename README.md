@@ -12,7 +12,7 @@
 
 Here is my solution
 
-<p align="center"><img src='./figure/image2.png' width="800" height="200"></p>
+<p align="center"><img src='./figure/image2.png' width="800" height="500"></p>
 
 <br>
 
